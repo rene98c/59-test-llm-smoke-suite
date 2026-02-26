@@ -1,0 +1,15 @@
+# Claude Code
+CLAUDE.md
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Variant test results (cheap to regenerate)
+results/Qwen3.5-35B-A3B/
